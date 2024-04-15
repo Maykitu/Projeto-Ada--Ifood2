@@ -61,10 +61,10 @@ Essas são as tabelas utilizadas:
 
 
 ## Colaboradores:
--   **Alan** Alves Rigolon (https://github.com/alanrigolon)
--   **Flavia**  Amorim (https://github.com/flaviamorin)
--   **Hudson** Cordeiro Pinto (https://github.com/hudsonhcp);
--   **Jhonatas** Santos Nascimento (https://github.com/JhonGb26);
--   **Juliana** Gabriela dos Santos (https://github.com/jgsjuliana);
--   **Maycon** Lima (https://github.com/Maykitu).
+- [Alves Rigolon] (https://github.com/alanrigolon)
+- [Flavia Amorim] (https://github.com/flaviamorin)
+- [Hudson Cordeiro Pinto] (https://github.com/hudsonhcp);
+- [Jhonatas Santos Nascimento] (https://github.com/JhonGb26);
+- [Juliana Gabriela dos Santos] (https://github.com/jgsjuliana);
+- [Maycon Lima] (https://github.com/Maykitu).
 
